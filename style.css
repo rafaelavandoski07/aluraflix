@@ -1,5 +1,5 @@
 body{
-color:rgb(249, 247, 247);
+color:rgb(204, 160, 212);
 background:rgb(216, 13, 186);
 margin: 0px;
 }
@@ -17,4 +17,8 @@ padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
 justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
 }

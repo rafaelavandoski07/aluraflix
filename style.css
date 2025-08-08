@@ -1,17 +1,17 @@
 body{
-color:rgb(109, 34, 122);
-background:rgb(216, 13, 186);
+color:rgb(232, 41, 228);
+background:rgb(235, 40, 112);
 margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(224, 107, 228);
+    border-bottom: solid 2px rgb(158, 0, 163);
     padding: 20px;
     font-size: 32px;
-    color: rgb(192, 0, 240);
+    color: rgb(246, 10, 112);
 }
 
-section{
+.chamada {
 background:rgb(233, 200, 229);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -24,4 +24,16 @@ justify-content: center;
 }
 img {
   height: 200px;
+
+}
+
+.categoria-videos{ 
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria {
+  padding-left:20px;
+  padding-right:20px;
 }

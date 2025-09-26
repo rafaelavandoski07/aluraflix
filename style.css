@@ -48,6 +48,12 @@ justify-content: center;
   margin-top: 50px
 }
 
+.categoria3 {
+  padding-left:20px;
+  padding-right:20px;
+  margin-top: 50px
+}
+
 .categoria-videos img {
     opacity: 0.5;
 height: 200px;
